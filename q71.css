@@ -1,0 +1,20 @@
+#all{
+    
+    background-color: beige;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#login {
+    
+    border: 2px solid red;
+    background-color: pink;
+    border-radius: 5px;
+    width: 250px;
+    box-shadow: 5px 5px 5px;
+
+}   

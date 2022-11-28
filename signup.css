@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+#submit{
+    background-color: aquamarine;
+}
+
